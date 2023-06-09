@@ -1,6 +1,6 @@
 # CAPTCHA_v4
 ## A project for Cal Hacks 2022 - 1st Place for [co:here](https://cohere.ai/) NLP Challenge
-Jaehan Kim, Sam Hyunsik Kim, Henry Ko, Jason Shin
+Jason Shin, Jaehan Kim, Sam Hyunsik Kim, Henry Ko
 <br/>
 <br/>
 
